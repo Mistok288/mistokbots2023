@@ -1,0 +1,88 @@
+{
+    "bot": {
+        "owner": "971063478121017424",
+        "prefix": ".",
+        "BotStatus": "Vanessa ❤️ Mistok",
+        "BotFooter": "Vanessa ❤️ Mistok",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "1065678823389151374",
+            "log": "1065679115270754406",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "1065678861947375677",
+            "roles": "1065679010249584712",
+            "log": "1065679101437939813",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "1065679255008198847",
+            "roles": "1065679216017936465",
+            "log": "1065679403406856232",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "1065679508029591732",
+            "log": "1065679602132992010"
+        },
+        "transport": {
+            "staff": "966087826947059762"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "1065680161686683708",
+        "rollog": "1065680181748048033",
+        "messagelog": "1065680209988304916",
+        "seslog": "1065680222889967656"
+    },
+    "roles": {
+        "vip": "1065680464699998358",
+        "sponsor": "1065680509608407051",
+        "müzisyen": "1065680514909999217",
+        "team": "1065680518009589780"
+    },
+    "channels": {
+        "chat": "1065680850907312178",
+        "voicechannel": "1064984328540536886",
+        "welcomechannel": "1065680985733206037",
+        "rules": "1065681115815354468"
+    },
+    "registration": {
+        "unregistered": "1065681274888519731",
+        "man": ["1065681337866014800"],
+        "woman": ["1065681381973299320"],
+        "yetkilialim": "1065681457454010379",
+        "staff": "1065681414080700526",
+        "enaltyetkilirolü": "1065681524109881475",
+        "GuilDTag": "✦",
+        "TagSymbol": "✦",
+        "autonickname": "✦ İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "1065681781250080828",
+        "susoeciosnickname": "Şüpheli Kullanıcı",
+        "oneman": "1065681337866014800",
+        "onewoman": "1065681381973299320",
+        "minage": 10, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "1064984309724880916",
+        "GuilDName": "V A N E S S A",
+        "GuildOwnerRole": ["1064985467772207245"]
+    },
+    "emojis": {
+        "tada": ":tada:",
+        "yes": ":white_check_mark:",
+        "no": ":x:"
+
+    }
+} 
